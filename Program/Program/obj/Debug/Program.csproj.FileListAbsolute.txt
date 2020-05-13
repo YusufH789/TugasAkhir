@@ -1,0 +1,10 @@
+D:\Coolyeah\Praktikum DKP\TugasAkhir\Program\Program\bin\Debug\Program.exe.config
+D:\Coolyeah\Praktikum DKP\TugasAkhir\Program\Program\bin\Debug\Program.exe
+D:\Coolyeah\Praktikum DKP\TugasAkhir\Program\Program\bin\Debug\Program.pdb
+D:\Coolyeah\Praktikum DKP\TugasAkhir\Program\Program\obj\Debug\Program.csprojAssemblyReference.cache
+D:\Coolyeah\Praktikum DKP\TugasAkhir\Program\Program\obj\Debug\Program.Properties.Resources.resources
+D:\Coolyeah\Praktikum DKP\TugasAkhir\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+D:\Coolyeah\Praktikum DKP\TugasAkhir\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Coolyeah\Praktikum DKP\TugasAkhir\Program\Program\obj\Debug\Program.exe
+D:\Coolyeah\Praktikum DKP\TugasAkhir\Program\Program\obj\Debug\Program.pdb
+D:\Coolyeah\Praktikum DKP\TugasAkhir\Program\Program\obj\Debug\Program.LaporanNeraca.resources
